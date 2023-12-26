@@ -1,3 +1,3 @@
-module geekr-dev/openai-proxy
+module nigh/openai-proxy
 
-go 1.17
+go 1.21
